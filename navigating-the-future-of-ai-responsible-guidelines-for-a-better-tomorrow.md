@@ -3,6 +3,9 @@ icon: head-side-brain
 description: >-
   As AI continues to transform our world, it's crucial to ensure its development
   and use are guided by principles of responsibility and ethics.
+cover: >-
+  https://images.unsplash.com/photo-1695634014400-485536537928?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8UmVzcG9uc2libGV8ZW58MHx8fHwxNzQxNjAzNDc2fDA&ixlib=rb-4.0.3&q=85
+coverY: 46
 ---
 
 # Navigating the Future of AI: Responsible Guidelines for a Better Tomorrow

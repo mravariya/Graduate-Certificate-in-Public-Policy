@@ -4,6 +4,9 @@ description: >-
   A Double-Edged Sword: Artificial Intelligence, particularly Generative AI, is
   reshaping the landscape of education by influencing students and teachers
   alike.
+cover: >-
+  https://images.unsplash.com/photo-1519452575417-564c1401ecc0?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxBcnRpZmljaWFsJTIwSW50ZWxsaWdlbmNlJTIwaW4lMjBFZHVjYXRpb258ZW58MHx8fHwxNzQxNjAzNTYzfDA&ixlib=rb-4.0.3&q=85
+coverY: -93
 ---
 
 # Excessive Use of Artificial Intelligence in Education
